@@ -65,3 +65,22 @@ a {
 .top-nav__item  a {
   color: #eee;
 }
+
+
+/**************************
+/**************************
+
+  ++BLOCK:  BUTTON++
+
+/**************************
+**************************/
+
+
+.btn {
+  padding: 0.8rem 1rem;
+  border: 1px #eee solid;
+
+  font-weight: bold;
+  color: #eee;
+
+}
