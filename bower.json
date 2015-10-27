@@ -1,0 +1,16 @@
+{
+  "name": "lesson-01",
+  "description": "",
+  "main": "brocfile.js",
+  "license": "ISC",
+  "homepage": "https://github.com/davidcawton/lesson-01",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+
+}

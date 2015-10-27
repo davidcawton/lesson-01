@@ -1,0 +1,26 @@
+{
+  "name": "lesson-01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "brocfile.js",
+  "dependencies": {
+    "broccoli": "^0.16.8"
+  },
+  "devDependencies": {
+    "broccoli": "^0.16.8",
+    "broccoli-merge-trees": "^0.2.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidcawton/lesson-01.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidcawton/lesson-01/issues"
+  },
+  "homepage": "https://github.com/davidcawton/lesson-01#readme"
+}
